@@ -47,13 +47,3 @@ composition is displayed and saved to `generated_output.txt` in the current
 directory.
 
 Only use source text that you have permission to process and share.
-
-## Credits
-
-YouTube Kylie Ying: https://www.youtube.com/ycubed  
-Twitch Kylie Ying: https://www.twitch.tv/kylieying  
-Twitter @kylieyying: https://twitter.com/kylieyying  
-Instagram @kylieyying: https://www.instagram.com/kylieyying/  
-Website: https://www.kylieying.com  
-GitHub: https://www.github.com/kying18  
-Programmer Beast Mode Spotify playlist: https://open.spotify.com/playlist/4Akns5EUb3gzmlXIdsJkPs?si=qGc4ubKRRYmPHAJAIrCxVQ
